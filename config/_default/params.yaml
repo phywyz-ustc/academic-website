@@ -31,9 +31,9 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: ture
     align: l
-    show_logo: true
+    show_logo: ture
     show_language: false
     show_day_night: true
     show_search: true
